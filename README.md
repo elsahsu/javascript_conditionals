@@ -52,3 +52,13 @@ Afterwards, print the following to the console if the mystery was solved.
 Fill in the blanks with the name of the suspect, the room, and the weapon. For example,
 Mr. Parkes did it in the dining room with the knife!
 
+Q3-6:
+Using logical operators, write a series of complex logical expressions that prints only if the following conditions are true:
+if flavor is set to vanilla or chocolate and
+if vessel is set to cone or bowl and
+if toppings is set to sprinkles or peanuts
+If the above conditions are true, then print out:
+I'd like two scoops of __________ ice cream in a __________ with __________.
+Fill in the blanks with the flavor of the ice cream, vessel, and toppings. For example,
+I'd like two scoops of vanilla ice cream in a cone with peanuts.
+
